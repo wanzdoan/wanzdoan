@@ -1,0 +1,60 @@
+{
+  "version": 1,
+  "login": "wanzdoan",
+  "seed": "#4285F4",
+  "seedFromAvatar": false,
+  "scheme": "expressive",
+  "motion": true,
+  "iconFill": true,
+  "order": ["hero", "about", "stack", "projects", "stats", "streak", "wave", "buttons", "socials"],
+  "hidden": ["socials"],
+  "hero": {
+    "greeting": "Xin chào, mình là",
+    "name": "wanzdoan",
+    "subtitle": "Viết công cụ hữu ích · Khám phá Android · Tự động hóa với AI",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [{"icon": "brand:android", "label": "Android"}, {"icon": "terminal", "label": "Developer tools"}, {"icon": "code", "label": "Open source"}]
+  },
+  "about": {
+    "title": "Một chút về mình",
+    "items": [
+      {"icon": "widgets", "label": "Phát triển tiện ích trình duyệt và công cụ cho lập trình viên."},
+      {"icon": "brand:android", "label": "Khám phá Android, HyperOS và hệ sinh thái module."},
+      {"icon": "terminal", "label": "Kết nối AI với quy trình làm việc qua CLI và plugin."}
+    ]
+  },
+  "stack": {
+    "title": "Công nghệ mình sử dụng",
+    "groups": [
+      {"title": "Languages", "items": [{"icon": "brand:javascript", "label": "JavaScript"}, {"icon": "brand:typescript", "label": "TypeScript"}, {"icon": "brand:python", "label": "Python"}, {"icon": "brand:openjdk", "label": "Java"}]},
+      {"title": "Platforms & tools", "items": [{"icon": "brand:android", "label": "Android"}, {"icon": "brand:dotnet", "label": ".NET / C#"}, {"icon": "brand:git", "label": "Git"}, {"icon": "brand:githubactions", "label": "GitHub Actions"}]}
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": ["BetterFilms", "agy2dsh", "antigravity-cli-use", "Oh-My-LSPosed"],
+    "overrides": {
+      "BetterFilms": {"icon": "desktop_windows", "text": "Tiện ích Chrome/Edge chặn chuyển hướng ngoài ý muốn và bỏ qua TVC."},
+      "agy2dsh": {"icon": "cloud", "text": "Plugin kết nối Antigravity và Codex với DeepSeek Harness."},
+      "antigravity-cli-use": {"icon": "terminal", "text": "Điều phối Antigravity CLI workers qua MCP và orchestration skill."},
+      "Oh-My-LSPosed": {"icon": "brand:android", "text": "Module Android được xây dựng trên nền tảng LSPosed."}
+    },
+    "empty": "Đang cập nhật mô tả.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "Hoạt động trên GitHub",
+    "stars": "Lượt sao",
+    "contributions": "Đóng góp trong năm",
+    "repos": "Repo công khai",
+    "followers": "Người theo dõi",
+    "calendar": "21 ngày gần đây",
+    "weekdays": "SMTWTFS",
+    "languages": "Ngôn ngữ trong các repository công khai",
+    "showLanguages": true
+  },
+  "streak": {"title": "Nhịp code", "current": "Chuỗi hiện tại", "longest": "Dài nhất trong năm", "days": "ngày"},
+  "socials": {"items": [], "variant": "chip", "fill": "tonal", "card": true},
+  "buttons": {"items": [{"icon": "book_2", "label": "Xem tất cả repository", "url": "https://github.com/wanzdoan?tab=repositories", "style": "filled"}], "card": true}
+}
