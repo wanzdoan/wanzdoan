@@ -1,8 +1,8 @@
 {
- "key": "277981a4",
+ "key": "141a46d4",
  "stars": 3,
- "contributions": 89,
- "repos": 14,
+ "contributions": 91,
+ "repos": 15,
  "followers": 1,
  "languages": [
   [
@@ -11,7 +11,11 @@
   ],
   [
    "C",
-   61170882
+   61171680
+  ],
+  [
+   "Kotlin",
+   1133193
   ],
   [
    "Assembly",
@@ -22,16 +26,12 @@
    1037211
   ],
   [
-   "Kotlin",
-   940876
-  ],
-  [
    "Python",
    922987
   ],
   [
    "C++",
-   242337
+   250200
   ]
  ],
  "days": [
@@ -141,7 +141,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 3,
     "day": 14,
     "today": true
    }
@@ -172,9 +172,18 @@
    "topics": []
   },
   {
+   "name": "Obsidian",
+   "url": "https://github.com/wanzdoan/Obsidian",
+   "text": "Android System Toolbox & LibXposed Module for Stealth Debugging, System Controls, and Network Management",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
    "name": "wanzdoan",
    "url": "https://github.com/wanzdoan/wanzdoan",
-   "text": "My GitHub profile powered by Expressive Profile",
+   "text": "VanDoaq's profile",
    "fork": false,
    "stars": 0,
    "language": null,
