@@ -1,0 +1,291 @@
+{
+ "key": "43149976",
+ "stars": 3,
+ "contributions": 89,
+ "repos": 14,
+ "followers": 1,
+ "languages": [
+  [
+   "Java",
+   65473080
+  ],
+  [
+   "C",
+   61170882
+  ],
+  [
+   "Assembly",
+   1042710
+  ],
+  [
+   "JavaScript",
+   1037211
+  ],
+  [
+   "Kotlin",
+   940876
+  ],
+  [
+   "Python",
+   922987
+  ],
+  [
+   "C++",
+   242337
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 12,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 14,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 17,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 14,
+    "today": true
+   }
+  ]
+ ],
+ "streak": {
+  "current": 4,
+  "longest": 5
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "LocketGoldLSPosed",
+   "url": "https://github.com/wanzdoan/LocketGoldLSPosed",
+   "text": "LSPosed module that unlocks Locket Gold features (app icons, widget frames, camera themes, gold badge) via structural Hermes bytecode patching",
+   "fork": false,
+   "stars": 2,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "AOV",
+   "url": "https://github.com/wanzdoan/AOV",
+   "text": "AOV Zygisk module with First Frost ImGui interface and persistent settings",
+   "fork": false,
+   "stars": 1,
+   "language": "C++",
+   "topics": []
+  },
+  {
+   "name": "wanzdoan",
+   "url": "https://github.com/wanzdoan/wanzdoan",
+   "text": "My GitHub profile powered by Expressive Profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "BetterFilms",
+   "url": "https://github.com/wanzdoan/BetterFilms",
+   "text": "Tiện ích Chrome/Edge chặn nhảy tab, chuyển hướng ngoài ý muốn và bỏ qua TVC trên website bạn chọn.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "api-reverse",
+   "url": "https://github.com/wanzdoan/api-reverse",
+   "text": "Browserless API reverse engineering skill with CLI tools, reference workflows, and examples",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "UnlockBL-Turbo5Max-HyperOS4",
+   "url": "https://github.com/wanzdoan/UnlockBL-Turbo5Max-HyperOS4",
+   "text": "Vietnamese HyperOS bootloader tool with GhostKey temproot workflow",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "RedmiTurbo5Max_hyperos4_lk_patcher",
+   "url": "https://github.com/wanzdoan/RedmiTurbo5Max_hyperos4_lk_patcher",
+   "text": "Redmi Turbo 5 Max LK HyperOS 4 hybrid reverse engineering, reproducible patches and evidence",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "tiktok-live-temple-rpc",
+   "url": "https://github.com/wanzdoan/tiktok-live-temple-rpc",
+   "text": "Chùa Linh Ứng Online — TikTok Live RPC 9:16 Interactive Buddhist Temple (Bun.js + ZeroTTS)",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Oh-My-LSPosed",
+   "url": "https://github.com/wanzdoan/Oh-My-LSPosed",
+   "text": "A simple LSPosed module",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "atc",
+   "url": "https://github.com/wanzdoan/atc",
+   "text": "atc (Antigravity to Claude) - Multi-account terminal manager and API proxy",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "agy2dsh",
+   "url": "https://github.com/wanzdoan/agy2dsh",
+   "text": "DeepSeek Harness plugin: use your Antigravity (Gemini/Claude) and Codex subscriptions as LLM providers, with self-refreshing OAuth and accurate quota.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "antigravity",
+    "codex",
+    "deepseek-harness",
+    "dsh",
+    "dsh-plugin",
+    "gemini",
+    "oauth"
+   ]
+  },
+  {
+   "name": "dsh-subagent-antigravity",
+   "url": "https://github.com/wanzdoan/dsh-subagent-antigravity",
+   "text": "Google Antigravity CLI Subagent Provider Plugin for DeepSeek Harness (DSH)",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "antigravity-cli-use",
+   "url": "https://github.com/wanzdoan/antigravity-cli-use",
+   "text": "Verified multi-account Antigravity CLI workers over MCP, with a companion orchestration skill and Codex setup.",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "PrismLauncherPatcher",
+   "url": "https://github.com/wanzdoan/PrismLauncherPatcher",
+   "text": "Universal Offline Patcher for Prism Launcher on Windows (PowerShell)",
+   "fork": false,
+   "stars": 0,
+   "language": "PowerShell",
+   "topics": []
+  }
+ ]
+}
