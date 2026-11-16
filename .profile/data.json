@@ -1,6 +1,6 @@
 {
- "key": "77631a76",
- "stars": 3,
+ "key": "a3793322",
+ "stars": 4,
  "contributions": 92,
  "repos": 15,
  "followers": 1,
@@ -134,21 +134,21 @@
  "pins": [],
  "all": [
   {
+   "name": "AOV",
+   "url": "https://github.com/wanzdoan/AOV",
+   "text": "AOV Zygisk module with First Frost ImGui interface and persistent settings",
+   "fork": false,
+   "stars": 2,
+   "language": "C++",
+   "topics": []
+  },
+  {
    "name": "LocketGoldLSPosed",
    "url": "https://github.com/wanzdoan/LocketGoldLSPosed",
    "text": "LSPosed module that unlocks Locket Gold features (app icons, widget frames, camera themes, gold badge) via structural Hermes bytecode patching",
    "fork": false,
    "stars": 2,
    "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "AOV",
-   "url": "https://github.com/wanzdoan/AOV",
-   "text": "AOV Zygisk module with First Frost ImGui interface and persistent settings",
-   "fork": false,
-   "stars": 1,
-   "language": "C++",
    "topics": []
   },
   {
