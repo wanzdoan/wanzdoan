@@ -1,6 +1,6 @@
 {
- "key": "905b7f3d",
- "stars": 4,
+ "key": "16fb9d7b",
+ "stars": 5,
  "contributions": 92,
  "repos": 15,
  "followers": 1,
@@ -138,7 +138,7 @@
    "url": "https://github.com/wanzdoan/AOV",
    "text": "AOV Zygisk module with First Frost ImGui interface and persistent settings",
    "fork": false,
-   "stars": 2,
+   "stars": 3,
    "language": "C++",
    "topics": []
   },
